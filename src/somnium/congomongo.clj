@@ -43,6 +43,7 @@
                                      Collation]
            [com.mongodb.gridfs GridFS GridFSDBFile GridFSInputFile]
            [org.bson.types ObjectId]
+           [java.io Writer]
            [java.lang.reflect Method Modifier]
            [java.util List]
            [java.util.concurrent TimeUnit]
